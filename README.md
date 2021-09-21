@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BASAVA CHETAN
 - 👀 I’m interested in python django kivy devops
-- 🌱 I’m currently learninG WEB DEVELOPMENT
+- 🌱 I’m currently learning WEB DEVELOPMENT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me chetanbagdal09@gmail.com
 
